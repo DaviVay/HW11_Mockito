@@ -1,3 +1,4 @@
+package hwmockito.hwci.movies;
 public class MovieManager {
 
     private String[] movies = new String[0];
